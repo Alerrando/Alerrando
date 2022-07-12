@@ -5,7 +5,7 @@
 - 📚 Atualmente estou estudando ReactJS, Typescript e Tailwind Css
 
 <div align="center">
-  <a href="https://github.com/Alerrando](https://alerrando.github.io/Portifolio/">
+  <a href="https://alerrando.github.io/Portifolio/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alerrando&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alerrando&layout=compact&langs_count=7&theme=radical"/>
 </div>
