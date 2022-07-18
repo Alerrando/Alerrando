@@ -1,8 +1,8 @@
 ## Olá, meu nome é Alerrando Breno
 
-- 👀 Sou Desenvolvedor Front End
-- 🌱 Tenho conhecimento em Html, Css, Javascript, C
-- 📚 Atualmente estou estudando ReactJS, Typescript e Tailwind Css
+- 👀 Sou Desenvolvedor Front End Jr
+- 🌱 Tenho conhecimento em Html, Css, Javascript, Tailwind Css e C
+- 📚 Atualmente estou estudando ReactJS, Typescript
 
 <div align="center">
   <a href="https://alerrando.github.io/Portifolio/" target="_blank">
