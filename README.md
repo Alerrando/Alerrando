@@ -8,6 +8,7 @@
   <a href="https://alerrando.github.io/Portifolio/" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alerrando&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alerrando&layout=compact&langs_count=7&theme=radical"/>
+  <img src ="https://streak-stats.demolab.com/?user=Alerrando&theme=dark">
 </div>
   
  <div style="display: inline_block"><br>
@@ -17,8 +18,9 @@
   <img align="center" alt="Alerrando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alerrando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alerrando-TailwindCSS" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-
 </div>
+  
+  <img src="https://profile-counter.glitch.me/Alerrando/count.svg" />
   
   ##
   
