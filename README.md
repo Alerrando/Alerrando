@@ -17,7 +17,7 @@
   <img align="center" alt="Alerrando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Alerrando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alerrando-TailwindCSS" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-   <img align="center" alt="Alerrando-Git" height="120" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+   <img align="center" alt="Alerrando-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
   
   <img src="https://profile-counter.glitch.me/Alerrando/count.svg" />
