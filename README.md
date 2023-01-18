@@ -1,8 +1,7 @@
 ## Olá, meu nome é Alerrando Breno
 
 - 👀 Sou Desenvolvedor Front End Jr
-- 🌱 Tenho conhecimento em Html, Css, Javascript, Tailwind Css e C
-- 📚 Atualmente estou estudando ReactJS, Typescript
+- 🌱 Tenho conhecimento em Html, Css, Javascript, Typescript, ReactJS, TailwindCSS, Git.
 
 <div align="center">
   <a href="https://portifolio-rho-ashy.vercel.app/" target="_blank">
@@ -12,12 +11,13 @@
 </div>
   
  <div style="display: inline_block"><br>
+  <img align="center" alt="Alerrando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Alerrando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alerrando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alerrando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Alerrando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alerrando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alerrando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alerrando-TailwindCSS" height="120" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+   <img align="center" alt="Alerrando-Git" height="120" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
   
   <img src="https://profile-counter.glitch.me/Alerrando/count.svg" />
