@@ -21,6 +21,7 @@
   <img align="center" alt="Alerrando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alerrando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alerrando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Alerrando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </details>
 
 <br>
@@ -33,6 +34,7 @@
     <img align="center" alt="Alerrando-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="Alerrando-MaterailUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg">
     <img align="center" alt="Alerrando-NextJS" style="width: 100px; height: 60px; object-fit: cover;" src="https://user-images.githubusercontent.com/5457539/151701924-cbdf9ff8-3e9b-4e5c-b036-43e1ec0bbbef.png">
+    <img align="center" alt="Alerrando-NextJS" style="width: 150px; height: 40px; object-fit: cover;" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   </div>
 </details>
 
