@@ -1,5 +1,5 @@
 ## Olá, meu nome é Alerrando Breno
-- 👀 Alerrando Breno de Oliveira Andrade, 20 anos
+- 👀 Alerrando Breno de Oliveira Andrade, 21 anos
 - 🖥️ Programador Front End
 
 </br>
@@ -43,9 +43,9 @@
 <details>
   <summary>Hosting</summary>
 
-  <img align="center" alt="Alerrando-Vercel" height="30" width="120" src="https://camo.githubusercontent.com/22547aa007860433c23771dfd59d184297d9433adcf3082be8515a28a16cd875/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465">
-  <img align="center" alt="Alerrando-Netlyfy" height="30" width="120" src="https://camo.githubusercontent.com/dfb4109b571fbeb03ce2fe6eefb9eb9a3ca63e618e57002cc4b17d784baea807/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d23303043374237">
-  <img align="center" alt="Alerrando-Railway" style="width: 160px; height: 30px" src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white">
+  <img align="center" alt="Alerrando-Vercel" style="width: 140px; height: 40px" src="https://img.shields.io/badge/vercel-131415?style=for-the-badge&logo=vercel&logoColor=white">
+  <img align="center" alt="Alerrando-Vercel" style="width: 140px; height: 40px" src="https://img.shields.io/badge/netlyf-131415?style=for-the-badge&logo=netlyf&logoColor=white">
+  <img align="center" alt="Alerrando-Railway" style="width: 140px; height: 40px" src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white">
 </details>
 
 </br>
