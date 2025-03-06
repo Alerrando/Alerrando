@@ -1,6 +1,6 @@
 ## Olá, meu nome é Alerrando Breno
-- 👀 Alerrando Breno de Oliveira Andrade, 21 anos
-- 🖥️ Programador Front End
+- 👀 Alerrando Breno de Oliveira Andrade, 23 anos
+- 🖥️ Programador Full Stack
 
 </br>
 
