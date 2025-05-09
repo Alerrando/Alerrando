@@ -9,9 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alerrando&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alerrando&layout=compact&langs_count=7&theme=radical"/>
   <img src ="https://streak-stats.demolab.com/?user=Alerrando&theme=dark">
-      
-  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alerrando&layout=compact&theme=githubdark&bgcolor=0d1117&title_color=1FDE15&text_color=A1A4A0)](https://wakatime.com/@Alerrando)
   
+  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Alerrando&layout=compact&theme=githubdark&bgcolor=0d1117&title_color=1FDE15&text_color=A1A4A0)
   </a>
 </div>
 
