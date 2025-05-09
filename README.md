@@ -9,6 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alerrando&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alerrando&layout=compact&langs_count=7&theme=radical"/>
   <img src ="https://streak-stats.demolab.com/?user=Alerrando&theme=dark">
+      
+  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alerrando&layout=compact&theme=githubdark&bgcolor=0d1117&title_color=1FDE15&text_color=A1A4A0)](https://wakatime.com/@Alerrando)
+  
   </a>
 </div>
 
@@ -68,10 +71,6 @@
   
 <img src="https://profile-counter.glitch.me/Alerrando/count.svg" />
 
-![Minhas Estatísticas Wakatime](https://wakatime.com/share/@960aae3c-f624-471f-88a3-57f65573dc8d/36ddac40-32a4-4051-88f3-3794b1c41624.svg)
-  
-  ##
-  
 <div> 
   <a href = "mailto:contatoalerrando2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alerrando-breno-656aa8188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
