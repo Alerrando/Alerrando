@@ -67,6 +67,8 @@
 </br>
   
 <img src="https://profile-counter.glitch.me/Alerrando/count.svg" />
+
+![Minhas Estatísticas Wakatime](https://wakatime.com/share/@960aae3c-f624-471f-88a3-57f65573dc8d/36ddac40-32a4-4051-88f3-3794b1c41624.svg)
   
   ##
   
